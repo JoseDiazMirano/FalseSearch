@@ -8,6 +8,4 @@ $('.Show').click(function() {
 	$('.Show').show(0);
 	$('.Hide').hide(0);
   });
-  $('.toggle').click(function() {
-	$('#target').toggle('slow');
-  });
+ 
