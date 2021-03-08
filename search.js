@@ -8,4 +8,3 @@ $('.Show').click(function() {
 	$('.Show').show(0);
 	$('.Hide').hide(0);
   });
- 
